@@ -1,0 +1,13 @@
+.imagen{
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    max-width: 600px;
+   }
+.titulo{
+    text-align: center;
+  }
+
+.separacion{
+    margin-top:20px;
+}
